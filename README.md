@@ -1,12 +1,5 @@
-Boa. No GitHub o tamanho depende da hierarquia de títulos. Vamos deixar mais forte visualmente, com seções maiores e mais organizadas.
-
-Aqui vai uma versão com títulos maiores e mais presença:
-
----
-
 # 🚀 PORTFÓLIO - DESENVOLVEDOR FRONT-END
 
----
 
 ## 💼 Sobre o Projeto
 
@@ -17,6 +10,7 @@ O projeto foi desenvolvido com o objetivo de apresentar meus trabalhos, habilida
 Mais do que um site, este portfólio representa minha dedicação prática aos estudos e minha construção profissional na tecnologia.
 
 ---
+
 ## 🛠️ Imagens
 
 <img width="1380" height="779" alt="image" src="https://github.com/user-attachments/assets/276a4651-cbd9-498c-a14e-f6ddb09eb2f5" />
