@@ -1,47 +1,77 @@
-💼 Portfólio - Desenvolvedor Front-End
+Boa. No GitHub o tamanho depende da hierarquia de títulos. Vamos deixar mais forte visualmente, com seções maiores e mais organizadas.
 
-Este projeto é meu portfólio pessoal como Desenvolvedor Front-End.
-Foi desenvolvido com o objetivo de apresentar meus projetos, habilidades e evolução na área de tecnologia.
+Aqui vai uma versão com títulos maiores e mais presença:
 
-🚀 Sobre o Projeto
+---
 
-O portfólio foi construído com foco em:
+# 🚀 PORTFÓLIO - DESENVOLVEDOR FRONT-END
 
-Estruturação semântica
+---
 
-Layout moderno e responsivo
+## 💼 Sobre o Projeto
 
-Organização de código
+Este repositório contém o meu **portfólio pessoal como Desenvolvedor Front-End**.
 
-Boas práticas em JavaScript
+O projeto foi desenvolvido com o objetivo de apresentar meus trabalhos, habilidades técnicas e evolução na área de desenvolvimento web.
 
-Experiência do usuário (UX)
+Mais do que um site, este portfólio representa minha dedicação prática aos estudos e minha construção profissional na tecnologia.
 
-Mais do que um site, este projeto representa minha jornada de aprendizado e minha evolução prática no desenvolvimento web.
+---
+## 🛠️ Imagens
 
-🛠️ Tecnologias Utilizadas
+<img width="1380" height="779" alt="image" src="https://github.com/user-attachments/assets/276a4651-cbd9-498c-a14e-f6ddb09eb2f5" />
+<img width="1377" height="778" alt="image" src="https://github.com/user-attachments/assets/a4c18041-cd46-4a4f-9c6c-1e35a86e7eec" />
+<img width="1380" height="584" alt="image" src="https://github.com/user-attachments/assets/3f0ed375-5719-4747-b09b-403384bb2228" />
+<img width="1375" height="461" alt="image" src="https://github.com/user-attachments/assets/6629da4a-c133-4773-9a03-c32c9f969c2b" />
 
-HTML5
 
-CSS3
+## 🛠️ Tecnologias Utilizadas
 
-JavaScript (Vanilla JS)
+* **HTML5** — Estruturação semântica
+* **CSS3** — Estilização moderna e responsiva
+* **JavaScript (Vanilla JS)** — Interatividade e dinamismo
 
-📱 Responsividade
+---
 
-O site foi desenvolvido para funcionar corretamente em diferentes tamanhos de tela, garantindo boa usabilidade tanto em desktop quanto em dispositivos móveis.
+## 🎯 Objetivos do Projeto
 
-📂 Estrutura do Projeto
+* Aplicar boas práticas de desenvolvimento
+* Criar uma interface moderna e organizada
+* Desenvolver um layout totalmente responsivo
+* Melhorar organização e legibilidade do código
 
-O código está organizado de forma clara para facilitar manutenção e escalabilidade.
+---
 
-🔎 Visualização
+## 📱 Responsividade
+
+O site foi desenvolvido para se adaptar a diferentes tamanhos de tela, garantindo boa experiência tanto em **desktop** quanto em **dispositivos móveis**.
+
+---
+
+## 📂 Estrutura do Código
+
+O projeto foi organizado de forma clara e estruturada para facilitar:
+
+* Manutenção
+* Escalabilidade
+* Leitura por outros desenvolvedores
+
+---
+
+## 🔎 Como Visualizar
 
 O projeto ainda não está publicado oficialmente.
 
-Caso queira visualizar ou analisar o código, basta clonar o repositório:
+Para visualizar localmente:
 
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
-📈 Objetivo Profissional
+```
 
-Estou em busca de oportunidades como Desenvolvedor Front-End Júnior ou Estágio em Desenvolvimento, com foco em evolução constante e aprofundamento em tecnologias modernas como React.
+Depois, basta abrir o arquivo `index.html` no navegador.
+
+---
+
+## 📈 Objetivo Profissional
+
+Atualmente busco oportunidades como **Desenvolvedor Front-End Júnior** ou **Estágio em Desenvolvimento**, com foco em evolução constante e aprofundamento em tecnologias modernas como React.
